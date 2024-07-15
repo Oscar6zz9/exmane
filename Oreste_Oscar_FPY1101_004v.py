@@ -71,6 +71,8 @@ def reporte():
 
 def salir_delprograma():
     print("\nPrograma finalizado")
+    print("Desarrollado por: Oscar Oreste")
+    print("Rut: 18.357.291-1")
     
     
 def menu():
